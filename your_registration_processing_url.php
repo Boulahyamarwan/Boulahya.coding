@@ -37,7 +37,7 @@
 	 <?php include('footer.php');?>
 
 </body>
-</html><!--https://wireframe.cc/sPvyz8--> 
+</html>
 
 
 
